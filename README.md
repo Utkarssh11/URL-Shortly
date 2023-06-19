@@ -47,6 +47,6 @@ Contributions are welcome! If you would like to contribute to the project, pleas
 
 ## Contact 📧
 
-For any inquiries or suggestions, please reach out to us at [your-email@example.com](utkarshpatidar011@gmail.com).
+For any inquiries or suggestions, please reach out to us at [email](utkarshpatidar011@gmail.com).
 
 We would love to hear from you! ❤️
