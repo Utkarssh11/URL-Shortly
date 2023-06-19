@@ -24,7 +24,7 @@ A live demo of the URL-Shortly project can be accessed at [https://utkarssh11.gi
 
 To run the URL-Shortly project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: `git clone https://github.com/Utkarssh11/your-repo.git`
 2. Install the required dependencies: `npm install`
 3. Set up the MongoDB connection in the configuration file.
 4. Start the server: `node app.js`
