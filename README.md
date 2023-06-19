@@ -32,8 +32,8 @@ To run the URL-Shortly project locally, follow these steps:
 
 ## Screenshots 📷
 
-![Screenshot 1](/path/to/screenshot-1.png)
-![Screenshot 2](/path/to/screenshot-2.png)
+![Screenshot (333)](https://github.com/Utkarssh11/URL-Shortly/blob/main/Screenshot%20(333).png?raw=true)
+![Screenshot (336).png](https://github.com/Utkarssh11/URL-Shortly/blob/main/Screenshot%20(336).png?raw=true)
 
 ## License 📝
 
