@@ -18,7 +18,7 @@ URL-Shortly is a full-stack project developed using Node.js, MongoDB, HTML, SCSS
 
 ## Demo 🚀
 
-A live demo of the URL-Shortly project can be accessed at [https://utkarssh11.github.io/URL-Shortly/](https://utkarssh11.github.io/URL-Shortly/).
+A live demo of the URL-Shortly project can be accessed at [here](https://utkarssh11.github.io/URL-Shortly/).
 
 ## Installation ⚙️
 
@@ -43,10 +43,10 @@ Feel free to explore, modify, and use the code as per the license terms.
 
 ## Contributing 🤝
 
-Contributions are welcome! If you would like to contribute to the project, please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+Contributions are welcome! If you would like to contribute to the project, please follow the guidelines outlined in the [README.md](README.md) file.
 
 ## Contact 📧
 
-For any inquiries or suggestions, please reach out to us at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or suggestions, please reach out to us at [your-email@example.com](utkarshpatidar011@gmail.com).
 
 We would love to hear from you! ❤️
