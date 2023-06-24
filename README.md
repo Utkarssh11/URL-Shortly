@@ -45,6 +45,10 @@ Feel free to explore, modify, and use the code as per the license terms.
 
 Contributions are welcome! If you would like to contribute to the project, please follow the guidelines outlined in the [README.md](README.md) file.
 
+## License 📄
+
+This project is licensed under the [MIT License](LICENSE).
+
 ## Contact 📧
 
 For any inquiries or suggestions, please reach out to us at [(utkarshpatidar011@gmail.com)](utkarshpatidar011@gmail.com).
