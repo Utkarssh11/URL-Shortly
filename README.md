@@ -51,6 +51,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact 📧
 
-For any inquiries or suggestions, please reach out to us at [(utkarshpatidar011@gmail.com)](utkarshpatidar011@gmail.com).
+For any inquiries or suggestions, please contact us at [LinkedIn](https://www.linkedin.com/in/utkarsh-patidar-800081221/).
 
 We would love to hear from you! ❤️
